@@ -61,9 +61,6 @@ This program is designed to run on modern hardware, as it uses multiple resource
 
    The voice models and language model will automatically download on first launch.
 
-> **Note for Non-Programmers**:  
-> This project may be challenging to set up if you’re unfamiliar with Python or command-line tools. I plan to release a pre-packaged executable (.exe) soon to make the program easier to use for everyone.
-
 ## Model Updates and Timeline
 
 The Tacotron 2 and HiFi-GAN models used in this project will not auto-update. When updates are available, they will be announced here, and you'll need to modify your Settings.json file to use the newer models.
@@ -76,14 +73,6 @@ The Tacotron 2 and HiFi-GAN models used in this project will not auto-update. Wh
 | **HiFi-GAN**           | `1FXfncncGh5LxrL5GkAo4gcBFPUAgFibG`     | Enhanced fidelity for synthesis   | 18/11/2024       |
 
 Stay tuned for future model improvements and new features!
-
-
-## Future Updates
-
-This project is actively developed, and planned updates include:
-
-- **Executable Release**: A user-friendly .exe version for non-programmers.
-- **Enhanced Voice Models**: Potential updates to the Tacotron 2 and HiFi-GAN models for better voice quality.
 
 ## Support
 
